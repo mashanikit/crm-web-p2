@@ -37,6 +37,10 @@ footer {
   /*width: 100%;*/
 }
 
+ul {
+  padding: 0px;
+}
+
 .link {
   color: white;
   font-weight: bold;
